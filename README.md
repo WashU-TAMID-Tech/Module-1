@@ -1,3 +1,3 @@
 # Module-1
 
-# We will use the example html file 'index.html' to demostrate how to worek with a team using git and github.
+# We will use the example html file 'index.html' to demostrate how to work with a team using git and github.
